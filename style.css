@@ -1,4 +1,4 @@
-background{
+.background{
     width: 100%;
 }
 .background img{
@@ -11,27 +11,16 @@ background{
     background-color: white;
     margin: auto;
 }
-.header-right{
 
-    float: left;
-    margin-top: 5px;
-    margin-left: 5px;
-}
 .h100{
-    height: 40px;
-}
-.container {
-    width: 1070px;
-    margin: auto;
-    height: 1000px;
-    background-color: rgb(255, 255, 255);
+    height: 60px;
 }
 
 .banner img {
     width: 100%;
 }
 
-.left {
+.col-left {
     float: left;
     margin-top: 5px;
     margin-left: 5px;
@@ -53,13 +42,13 @@ background{
     display: inline-block;
 }
 
-.tinmoi1 {
+.inter {
     float: right;
     margin-right: -70%;
     margin-top: 12px;
 }
 
-.tinmoi1 button {
+.inter button {
     height: 32px;
     line-height: 30px;
     padding: 0 10px;
@@ -86,10 +75,6 @@ background{
     color: #4f4f4f;
 }
 
-.container hr {
-    width: 150%;
-    margin-left: -246px;
-}
 
 .dropdown{
     position: relative;
